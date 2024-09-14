@@ -45,4 +45,5 @@ func main() {
 	}
 
 	log.Printf("Index created: %v", prettifyStruct(idx))
+
 }
